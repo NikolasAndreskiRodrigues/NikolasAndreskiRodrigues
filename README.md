@@ -11,14 +11,14 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 **SAP Support Analyst** \
 [**MigNow**](https://mig-now.com/) • Contract \
-Linguagens & Tecnologias: `ABAP`, `SAP`\
+Linguagens & Tecnologias: `ABAP`, `SAP ECC`, `SAP S4/HANA`\
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Meta IT" src="https://media.licdn.com/dms/image/v2/C4D0BAQHXTqaueX7X5A/company-logo_200_200/company-logo_200_200/0/1675356313243/metaoficial_logo?e=1755734400&v=beta&t=ip9BAFajkQCYBySMeER53a7xVoCBeumGmT84aXloi40"/>](https://metait.ai/)
 
 **SAP Support Analyst L1** \
 [**META IT**](https://metait.ai/) • Contract \
-Linguagens & Tecnologias: `ABAP`, `SAP`
+Linguagens & Tecnologias: `ABAP`, `SAP ECC`
 <br/>
 
 <div style="display: inline_block"><br>
