@@ -1,7 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fontes+Proggy&weight=900&size=22&pause=1000&color=FFFFFF&width=580&lines=Oii!+Eu+sou+o+Nikolas+Eduardo+Andreski+Rodrigues+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
--💻Estou em busca de me aperfeiçoar na área da programação em geral sendo meu foco na linguagem ABAP<br>
--🧩Amo desafios que fazem eu ser uma pessoa melhor<br>
+-💻Estou em busca de me aperfeiçoar na linguagem de programação ABAP<br>
 -👥Sou uma pessoa super comunicativa que adora contatos interpessoais
 
 ### Experiência de trabalho
@@ -24,7 +23,6 @@ Linguagens & Tecnologias: `ABAP`, `SAP`
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Nikolas-ABAP" height="30" width="80" src="https://images.squarespace-cdn.com/content/v1/56a77c1b25981d11f5774bbe/1458247771788-F1NEVFAKEUZ1NB4YM71C/SAP+ABAP+Tips+and+Tricks">
-  <img align="center" alt="Nikolas-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Nikolas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nikolas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Nikolas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
